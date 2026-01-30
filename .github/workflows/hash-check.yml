@@ -1,6 +1,6 @@
 name: Verificador de Hash Aleatorio
 
-# Se ejecuta cuando haces push al repositorio
+
 on: [push]
 
 jobs:
