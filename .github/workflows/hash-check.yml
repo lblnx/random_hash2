@@ -18,4 +18,4 @@ jobs:
 
    
     - name: Ejecutar búsqueda de Hash
-      run: python hash_finder.py
+      run: python work1.py
